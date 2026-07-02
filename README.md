@@ -85,16 +85,16 @@ src/
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/TOM_Intro.png)
+![Main Menu](Screenshots/TOM_Intro.png)
 
 ### Gameplay
-![Gameplay](screenshots/TOM_Select_Class.png)
+![Gameplay](Screenshots/TOM_Select_Class.png)
 
 ### Battle
-![Battle](screenshots/TOM_InGame_Ex.png)
+![Battle](Screenshots/TOM_InGame_Ex.png)
 
 ### Leaderboard
-![Leaderboard](screenshots/TOM_LeaderBoard.png)
+![Leaderboard](Screenshots/TOM_LeaderBoard.png)
 
 ---
 
