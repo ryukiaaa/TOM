@@ -84,16 +84,17 @@ src/
 
 ## 📸 Screenshots
 
-Add screenshots of your game here.
+### Main Menu
+![Main Menu](screenshots/TOM_Intro.png)
 
-Example:
+### Gameplay
+![Gameplay](screenshots/TOM_Select_Class.png)
 
-```
-screenshots/
-├── menu.png
-├── gameplay.png
-└── leaderboard.png
-```
+### Battle
+![Battle](screenshots/TOM_InGame_Ex.png)
+
+### Leaderboard
+![Leaderboard](screenshots/TOM_LeaderBoard.png)
 
 ---
 
